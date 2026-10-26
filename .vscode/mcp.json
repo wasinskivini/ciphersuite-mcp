@@ -1,7 +1,7 @@
 {
     "servers": {
         "ciphersuite-mcp": {
-            "command": "node",
+            "command": "/Users/viniciuswasinski/.nvm/versions/node/v22.23.4/bin/node",
             "args": [
                 "--experimental-strip-types",
                 "src/index.ts"
